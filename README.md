@@ -9,10 +9,10 @@ The QGIS auxilliary data includes the files `California_Cities.geojson` and `CA_
 
 #### Points of Contact: 
 Claire Villanueva-Weeks (she/her) 
-[claire.s.villanueva-weeks@jpl.nasa.gov](mailto:claire.s.villanueva-weeks@jpl.nasa.gov)<br>
+[claire.s.villanueva-weeks@jpl.nasa.gov](mailto:claire.s.villanueva-weeks@jpl.nasa.gov)
 
 Quentin Delahane (he/him) 
-[quentin.dehaene@jpl.nasa.gov](mailto:quentin.dehaene@jpl.nasa.gov)<br>
+[quentin.dehaene@jpl.nasa.gov](mailto:quentin.dehaene@jpl.nasa.gov)
 
 Gregory Halverson (they/them) 
-[gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
+[gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)

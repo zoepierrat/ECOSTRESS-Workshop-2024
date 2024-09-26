@@ -9,13 +9,11 @@ The QGIS auxilliary data includes the files `California_Cities.geojson` and `CA_
 3. Extract the State we want from the State boundadry layer: Run the "Extract by attributes" tool, selecting the `gadm41_USA_1` layer and setting the Selection Attribute field to "NAME_1" and the Value to "California"
 
 #### Points of Contact: 
-Claire Villanueva-Weeks (she/her) [claire.s.villanueva-weeks@jpl.nasa.gov](mailto:claire.s.villanueva-weeks@jpl.nasa.gov)<br>
-*QGIS main contact*
+Claire Villanueva-Weeks (she/her) 
+[claire.s.villanueva-weeks@jpl.nasa.gov](mailto:claire.s.villanueva-weeks@jpl.nasa.gov)<br>
 
-Quentin Delahane (he/him) [quentin.dehaene@jpl.nasa.gov](mailto:quentin.dehaene@jpl.nasa.gov)<br>
-*Jupyternotebook main contact*
+Quentin Delahane (he/him) 
+[quentin.dehaene@jpl.nasa.gov](mailto:quentin.dehaene@jpl.nasa.gov)<br>
 
-Gregory Halverson (they/them) [gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>
-
-
-
+Gregory Halverson (they/them) 
+[gregory.h.halverson@jpl.nasa.gov](mailto:gregory.h.halverson@jpl.nasa.gov)<br>

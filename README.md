@@ -1,5 +1,4 @@
-## ECOSTRESS-Workshop-2024
-# ECOSTRESS Science and Application Team Meeting Workshop October 2024
+## ECOSTRESS Science and Application Team Meeting Workshop October 2024
 
 This repository contains data required to interactively participate in the ECOSTRESS STM Workshop tutorials. The workshop is a collaboration between Jet Propulsion Laboratory (JPL) and the Land Processes Distributed Active Archive Center (LP DAAC). The LP DAAC faciliated portion of the workshop will include and a demonstrtion on using EarthData for ECOSTRESS data products. The JPL portion of the workshop includes a QGIS tutorial and a jupyter notebook tutorial using the ECOSTRESS Land Surface Temperature (LST) product. The QGIS tutorial will take place in the Opensource cross-platform QGIS application but will use auxillary vector data available in this repository. Auxillary data was pre-processed to limit file size, the text below includes the steps we took to prepare the auxillary data. The jupyter notebook portion of the tutorial will take place in GitHub codespaces using the ECOSTRESS Land Surface Temperature (LST) data included in this repository.   
 

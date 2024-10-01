@@ -11,6 +11,11 @@ The QGIS auxilliary data includes the files `California_Cities.geojson` and `CA_
 **Please note that NASA Earthdata login credentials are required to access data from all NASA DAACs.** You can create an account [here](https://urs.earthdata.nasa.gov/users/new) and learn more at <https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know>.  
 Additionally, you will need `.netrc` file to store your Earthdata login credentials. You can either manually create the `.netrc` file or utilize command line to create it. Please follow the instruction provided [here](https://github.com/nasa/EMIT-Data-Resources/blob/main/guides/Streaming_cloud_optimized_geotiffs_using_QGIS.md#1-create-a-netrc-file) to store your credentials in a `.netrc` file on your local machine.**
 
+Granule ID for ECOSTRESS Tiled data will be used as an examlpe: 
+```bash
+ECOv002_L2T_LSTE_34412_001_11SKA_20240731T195056_0712_01
+```
+
 
 
 #### Points of Contact: 

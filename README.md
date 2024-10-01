@@ -8,7 +8,8 @@ The QGIS auxilliary data includes the files `California_Cities.geojson` and `CA_
 3. Extract the State we want from the State boundadry layer: Run the "Extract by attributes" tool, selecting the `gadm41_USA_1` layer and setting the Selection Attribute field to "NAME_1" and the Value to "California"
 
 
-**Please note that NASA Earthdata login credentials are required to access data from all NASA DAACs. You can create an account [here](https://urs.earthdata.nasa.gov/users/new) and learn more at <https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know>. Additionally, you will need `.netrc` file to store your Earthdata login credentials. You can either manually create the `.netrc` file or utilize command line to create it. Please follow the instruction provided [here](https://github.com/nasa/EMIT-Data-Resources/blob/main/guides/Streaming_cloud_optimized_geotiffs_using_QGIS.md#1-create-a-netrc-file) to store your credentials in a netrc file on your local machine.**
+**Please note that NASA Earthdata login credentials are required to access data from all NASA DAACs.** You can create an account [here](https://urs.earthdata.nasa.gov/users/new) and learn more at <https://urs.earthdata.nasa.gov/documentation/what_do_i_need_to_know>.  
+Additionally, you will need `.netrc` file to store your Earthdata login credentials. You can either manually create the `.netrc` file or utilize command line to create it. Please follow the instruction provided [here](https://github.com/nasa/EMIT-Data-Resources/blob/main/guides/Streaming_cloud_optimized_geotiffs_using_QGIS.md#1-create-a-netrc-file) to store your credentials in a `.netrc` file on your local machine.**
 
 
 
